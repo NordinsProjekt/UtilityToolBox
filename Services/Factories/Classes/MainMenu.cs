@@ -7,8 +7,11 @@ public class MainMenu : IMenu
 {
     private MenuDirection _direction;
 
+    public List<string> MenuItems { get; set; }
+
     internal MainMenu(MenuDirection direction)
     {
         _direction = direction;
+        MenuItems = [];
     }
 }
