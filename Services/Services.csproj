@@ -4,6 +4,13 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <IsPackable>true</IsPackable>
+    <PackageId>UtilityToolBox.Services</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>UtilityToolBox</Authors>
+    <Description>UtilityToolBox Services library providing menu factories and helpers.</Description>
+    <RepositoryUrl>https://github.com/NordinsProjekt/UtilityToolBox</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
-
 </Project>

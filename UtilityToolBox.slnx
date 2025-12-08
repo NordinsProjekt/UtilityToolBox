@@ -1,9 +1,9 @@
-<Solution>
+﻿<Solution>
   <Folder Name="/02. Application/">
     <Project Path="Services/Services.csproj" />
   </Folder>
-  <Folder Name="/04. Presentation/">
-    <Project Path="UtilityToolBox/UtilityToolBox.csproj" />
+  <Folder Name="/03. Examples/">
+    <Project Path="examples/UtilityToolBox/UtilityToolBox.csproj" />
   </Folder>
   <Folder Name="/99. Unittests/">
     <Project Path="ServiceTests/ServiceTests.csproj" Id="1cf3a9f8-2f5f-4c3c-8983-e00d91c7f915" />

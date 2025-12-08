@@ -9,6 +9,7 @@ public class MenuExtensionsTests
     {
         public string Heading { get; set; } = string.Empty;
         public List<string> MenuItems { get; set; } = [];
+        public List<string> MenuOption { get; set; } = [];
         public void ShowMenu() { }
     }
 
